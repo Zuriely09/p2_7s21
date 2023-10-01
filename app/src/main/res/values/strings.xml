@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">p2_7s21</string>
+    <string name="Titulo1">PANTALLA INICIAL DEL PROYECTO</string>
+    <string name="titulob1l1">Boton que no hace nada </string>
+    <string name="descimagen1">logo tecnologico</string>
+    <string name="Titulo2">Este es el segundo layout</string>
+    <string name="skt">skt</string>
+    <string name="todo">TODO</string>
+</resources>
